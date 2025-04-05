@@ -40,9 +40,3 @@ The interface includes:
   - After a move, the button changes color and text to indicate which player made the move.
   - When the game ends, a message box will appear showing the winner or if the game ended in a draw.
 
-## Installation
-
-To run this project ,follow these steps:
-
-### 1. Clone the repository:
-   First, clone the repository 
